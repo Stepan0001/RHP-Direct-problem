@@ -7,5 +7,5 @@ Materials:
   - codes to solve inverse/direct problems;
   - codes to plot Figure 1 and Figure 2;
   - file containing the data depicted in Figure 1 and Figure 2.
-All codes are implemented with Wolfram Mathematica. To solve the Riemann-Hilbert problem, the following package is used
-: https://github.com/dlfivefifty/RHPackage
+
+All codes are implemented with Wolfram Mathematica. To solve the Riemann-Hilbert problem, the following package is used: https://github.com/dlfivefifty/RHPackage
